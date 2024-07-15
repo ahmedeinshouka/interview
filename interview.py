@@ -152,9 +152,9 @@ def open_invoice_window():
 
 root = tk.Tk()
 root.title("Interview GUI")
-root.geometry("800x600")
+root.geometry("230x400")
 
-gradient_color = "#3392FF"  # Light blue color for gradient background
+gradient_color ="#FBF4F4"  # Light blue color for gradient background
 
 root.configure(bg=gradient_color)
 
